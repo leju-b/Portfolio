@@ -3,7 +3,7 @@
     color: #ababab;
   }
   .container{
-    padding: 10px 10%;
+    padding: 10px 8%;
   
   }
   .row {
@@ -54,7 +54,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #687857;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -73,7 +73,7 @@
   .tab-contents ul li span {
     font-size: 16px;
     font-weight: 600;
-    color: #b54769;
+    color: #3c4434;
   }
   
   .tab-contents {

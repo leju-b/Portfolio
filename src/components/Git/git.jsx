@@ -10,17 +10,17 @@ const Contact = () => {
           <div className="contact-left">
             <a href="">
               <p>
-                <i className="fa-solid fa-paper-plane"></i> contact@example.com
+                <i className="fa-solid fa-paper-plane"></i> iamleju02@gmail.com
               </p>
             </a>
             <a href="">
               <p>
-                <i className="fa-solid fa-square-phone"></i> 0123456789
+                <i className="fa-solid fa-square-phone"></i> (+91) 9207491175
               </p>
             </a>
             <div className="social-icons">
-              <a href="">
-                <i className="fa-brands fa-facebook"></i>
+              <a href="https://github.com/leju-b">
+                <i className="fa-brands fa-github"></i>
               </a>
               <a href="">
                 <i className="fa-brands fa-twitter-square"></i>
@@ -28,7 +28,7 @@ const Contact = () => {
               <a href="">
                 <i className="fa-brands fa-instagram"></i>
               </a>
-              <a href="">
+              <a href="https://www.linkedin.com/in/lejub02">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
             </div>

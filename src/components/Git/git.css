@@ -1,5 +1,5 @@
 .container{
-  padding: 10px 10%;
+  padding: 10px 8%;
 
 }
 .contact-left {
@@ -19,7 +19,7 @@
   }
   
   .contact-left p i {
-    color: #ff004f;
+    color: #687857;
     margin-right: 10px;
     font-size: 20px;
   }
@@ -38,7 +38,7 @@
   }
   
   .social-icons a:hover {
-    color: #ff004f;
+    color: #687857;
     transform: translateY(-5px);
   }
   .btn{
@@ -46,20 +46,20 @@
     margin:30px auto;
     width: fit-content;
     text-decoration: none;
-    border: 1px solid #ff004f;
+    border: 1px solid #687857;
     padding: 10px 20px;
     border-radius: 6px;
     color: #fff;
     transition: background 0.5s;
   }
   .btn:hover{
-    background: #ff004f;
+    background: #687857;
   }
     
   
   .btn.btn2 {
     display: inline-block;
-    background: #ff004f;
+    background: #687857;
     
   }
   form input,
