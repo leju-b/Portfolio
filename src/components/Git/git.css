@@ -19,7 +19,7 @@
   }
   
   .contact-left p i {
-    color: #687857;
+    color: #000000;
     margin-right: 10px;
     font-size: 20px;
   }
@@ -38,7 +38,7 @@
   }
   
   .social-icons a:hover {
-    color: #687857;
+    color: #000000;
     transform: translateY(-5px);
   }
   .btn{
@@ -53,13 +53,13 @@
     transition: background 0.5s;
   }
   .btn:hover{
-    background: #687857;
+    background: #000000;
   }
     
   
   .btn.btn2 {
     display: inline-block;
-    background: #687857;
+    background: #000000;
     
   }
   form input,
@@ -67,7 +67,7 @@
     width: 100%;
     border: 0;
     outline: none;
-    background: #262626;
+    background: #000000;
     padding: 15px;
     margin: 10px 0;
     color: #fff;

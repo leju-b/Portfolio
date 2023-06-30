@@ -54,7 +54,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background: #687857;
+    background: #000000;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -73,7 +73,7 @@
   .tab-contents ul li span {
     font-size: 16px;
     font-weight: 600;
-    color: #3c4434;
+    color: #000000;
   }
   
   .tab-contents {

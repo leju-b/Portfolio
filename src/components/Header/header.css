@@ -53,7 +53,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background: #687857;
+    background: #000000;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -78,6 +78,6 @@
   }
   
   .header-text h1 span {
-    color: #687857;
+    color: #000000;
   }
   
